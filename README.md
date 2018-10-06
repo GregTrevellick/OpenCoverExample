@@ -22,6 +22,7 @@
 [![Sonar&metric=vulnerabilities](https://sonarcloud.io/api/project_badges/measure?project=OpenCoverExample&metric=vulnerabilities)](https://sonarcloud.io/component_measures?id=OpenCoverExample&metric=vulnerabilities)
 [![Appveyor Build status](https://ci.appveyor.com/api/projects/status/eiso821168e15t9e?svg=true)](https://ci.appveyor.com/project/GregTrevellick/OpenCoverExample)
 [![Appveyor unit tests](https://img.shields.io/appveyor/tests/GregTrevellick/OpenCoverExample.svg)](https://ci.appveyor.com/project/GregTrevellick/OpenCoverExample/build/tests)
+[![Azure Build Status](https://gregtrevellick.visualstudio.com/OpenCoverExample/_apis/build/status/OpenCoverExample)](https://gregtrevellick.visualstudio.com/OpenCoverExample/_build/latest?definitionId=)
 [![Access Lint github](https://img.shields.io/badge/a11y-checked-brightgreen.svg)](https://www.accesslint.com)
 [![ImgBot](https://img.shields.io/badge/images-optimized-brightgreen.svg)](https://imgbot.net/)
 [![Renovate Bot github](https://img.shields.io/badge/renovatebot-checked-brightgreen.svg)](https://renovatebot.com/)
