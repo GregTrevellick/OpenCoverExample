@@ -2,7 +2,8 @@
 [![Read Me Synchronizer](https://img.shields.io/badge/-powered%20by%20read%20me%20synchronizer-brightgreen.svg)](https://github.com/GregTrevellick/ReadMeSynchronizer)
 <!-- Powered by https://github.com/GregTrevellick/ReadMeSynchronizer -->
 
-**[Subscribe](https://github.com/GregTrevellick/OpenCoverExample/subscription) to receive notificatons.**
+[Subscribe](https://github.com/GregTrevellick/OpenCoverExample/subscription) to receive notificatons.
+
 [![BetterCodeHub compliance](https://bettercodehub.com/edge/badge/GregTrevellick/OpenCoverExample?branch=master)](https://bettercodehub.com/results/GregTrevellick/OpenCoverExample)
 [![Codacy Badge](https://api.codacy.com/project/badge/Grade/e9691ea13c68406c9a77447c243cbddb)](https://www.codacy.com/project/gtrevellick/OpenCoverExample/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=GregTrevellick/OpenCoverExample&amp;utm_campaign=Badge_Grade_Dashboard)
 [![CodeFactor](https://www.codefactor.io/repository/github/GregTrevellick/OpenCoverExample/badge)](https://www.codefactor.io/repository/github/GregTrevellick/OpenCoverExample)
@@ -23,7 +24,7 @@
 [![Sonar&metric=vulnerabilities](https://sonarcloud.io/api/project_badges/measure?project=OpenCoverExample&metric=vulnerabilities)](https://sonarcloud.io/component_measures?id=OpenCoverExample&metric=vulnerabilities)
 [![Appveyor Build status](https://ci.appveyor.com/api/projects/status/eiso821168e15t9e?svg=true)](https://ci.appveyor.com/project/GregTrevellick/OpenCoverExample)
 [![Appveyor unit tests](https://img.shields.io/appveyor/tests/GregTrevellick/OpenCoverExample.svg)](https://ci.appveyor.com/project/GregTrevellick/OpenCoverExample/build/tests)
-[![Azure Build Status](https://gregtrevellick.visualstudio.com/OpenCoverExample/_apis/build/status/OpenCoverExample)](https://gregtrevellick.visualstudio.com/OpenCoverExample/_build/latest?definitionId=)
+[![Azure Build Status](https://gregtrevellick.visualstudio.com/OpenCoverExample/_apis/build/status/OpenCoverExample)](https://gregtrevellick.visualstudio.com/OpenCoverExample/_build/latest?definitionId=28)
 [![Access Lint github](https://img.shields.io/badge/a11y-checked-brightgreen.svg)](https://www.accesslint.com)
 [![ImgBot](https://img.shields.io/badge/images-optimized-brightgreen.svg)](https://imgbot.net/)
 [![Renovate Bot github](https://img.shields.io/badge/renovatebot-checked-brightgreen.svg)](https://renovatebot.com/)
