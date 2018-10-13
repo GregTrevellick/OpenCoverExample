@@ -7,7 +7,9 @@
 [![BetterCodeHub compliance](https://bettercodehub.com/edge/badge/GregTrevellick/OpenCoverExample?branch=master)](https://bettercodehub.com/results/GregTrevellick/OpenCoverExample)
 [![Codacy Badge](https://api.codacy.com/project/badge/Grade/e9691ea13c68406c9a77447c243cbddb)](https://www.codacy.com/project/gtrevellick/OpenCoverExample/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=GregTrevellick/OpenCoverExample&amp;utm_campaign=Badge_Grade_Dashboard)
 [![CodeFactor](https://www.codefactor.io/repository/github/GregTrevellick/OpenCoverExample/badge)](https://www.codefactor.io/repository/github/GregTrevellick/OpenCoverExample)
-[![Inspecode Report](https://inspecode.rocro.com/badges/github.com/GregTrevellick/OpenCoverExample/report?token=&branch=master)](https://inspecode.rocro.com/reports/github.com/GregTrevellick/OpenCoverExample/branch/master/summary)
+[![Inspecode Report](https://inspecode.rocro.com/badges/github.com/GregTrevellick/OpenCoverExample/report?token=)](https://inspecode.rocro.com/reports/github.com/GregTrevellick/OpenCoverExample/branch/master/summary)
+
+
 [![GitHub top language](https://img.shields.io/github/languages/top/GregTrevellick/OpenCoverExample.svg)](https://github.com/GregTrevellick/OpenCoverExample)
 [![Github language count](https://img.shields.io/github/languages/count/GregTrevellick/OpenCoverExample.svg)](https://github.com/GregTrevellick/OpenCoverExample)
 [![GitHub issues](https://img.shields.io/github/issues-raw/GregTrevellick/OpenCoverExample.svg)](https://github.com/GregTrevellick/OpenCoverExample/issues)
