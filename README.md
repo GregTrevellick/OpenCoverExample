@@ -6,6 +6,7 @@
 
 [![BetterCodeHub compliance](https://bettercodehub.com/edge/badge/GregTrevellick/OpenCoverExample?branch=master)](https://bettercodehub.com/results/GregTrevellick/OpenCoverExample)
 [![Codacy Badge](https://api.codacy.com/project/badge/Grade/e9691ea13c68406c9a77447c243cbddb)](https://www.codacy.com/project/gtrevellick/OpenCoverExample/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=GregTrevellick/OpenCoverExample&amp;utm_campaign=Badge_Grade_Dashboard)
+[![CodeBeat](https://codebeat.co/badges/undefined)](https://codebeat.co/projects/github-com-gregtrevellick-opencoverexample-master)
 [![CodeFactor](https://www.codefactor.io/repository/github/GregTrevellick/OpenCoverExample/badge)](https://www.codefactor.io/repository/github/GregTrevellick/OpenCoverExample)
 [![Inspecode Report](https://inspecode.rocro.com/badges/github.com/GregTrevellick/OpenCoverExample/report?token=)](https://inspecode.rocro.com/reports/github.com/GregTrevellick/OpenCoverExample/branch/master/summary)
 
